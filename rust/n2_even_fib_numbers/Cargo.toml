@@ -1,0 +1,6 @@
+[package]
+name = "n2_even_fib_numbers"
+version = "0.1.0"
+authors = ["Chris Coutinho <chrisbcoutinho@gmail.com>"]
+
+[dependencies]
