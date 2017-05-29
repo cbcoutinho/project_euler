@@ -1,0 +1,7 @@
+[package]
+name = "n3_largest_prime_factor"
+version = "0.1.0"
+authors = ["Chris Coutinho <chrisbcoutinho@gmail.com>"]
+
+[dependencies]
+primal = "0.2"
