@@ -1,7 +1,3 @@
-// mod prime;
-// use prime::{is_prime, is_prime_naive};
-// use prime::is_prime_naive;
-
 extern crate primal;
 
 fn main() {
