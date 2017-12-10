@@ -1,2 +1,3 @@
-This repository contains some implementations of Euler problems in different languages
+This repository contains some implementations of Euler problems in
+different programming languages
 
